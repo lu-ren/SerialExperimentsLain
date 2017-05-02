@@ -9,5 +9,5 @@ Python Screenshot
 Javascript Screenshot
 ![alt text][javascript]
 
-[python]: https://github.com/lu-ren/SerialExperimentsLain/blob/master/PythonScreenshot.png "Python Screenshot"
-[javascript]: https://github.com/lu-ren/SerialExperimentsLain/blob/master/JavascriptScreenshot.png "Javascript Screenshot"
+[python]: https://github.com/lu-ren/SerialExperimentsLain/blob/master/screenshots/PythonScreenshot.png "Python Screenshot"
+[javascript]: https://github.com/lu-ren/SerialExperimentsLain/blob/master/screenshots/JavascriptScreenshot.png "Javascript Screenshot"
